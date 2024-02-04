@@ -1920,9 +1920,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@testing-library/jest-dom@npm:^6.1.5":
-  version: 6.2.0
-  resolution: "@testing-library/jest-dom@npm:6.2.0"
+"@testing-library/jest-dom@npm:^6.4.1":
+  version: 6.4.1
+  resolution: "@testing-library/jest-dom@npm:6.4.1"
   dependencies:
     "@adobe/css-tools": ^4.3.2
     "@babel/runtime": ^7.9.2
@@ -1934,11 +1934,14 @@ __metadata:
     redent: ^3.0.0
   peerDependencies:
     "@jest/globals": ">= 28"
+    "@types/bun": "*"
     "@types/jest": ">= 28"
     jest: ">= 28"
     vitest: ">= 0.32"
   peerDependenciesMeta:
     "@jest/globals":
+      optional: true
+    "@types/bun":
       optional: true
     "@types/jest":
       optional: true
@@ -1946,7 +1949,7 @@ __metadata:
       optional: true
     vitest:
       optional: true
-  checksum: 3d46e36b1b7c2cb3c92f64d55d458aab44ae135ac77299df14d14dcf567a286590de58b2f140011b8f7a343f0703ff88f144f27c6ae4921fd612741771d8ee2c
+  checksum: 66cd945fc81181289835f24791ae4de4913ac4e4fd8bc2e2ee7393ad7298bc3c2fc5acd6951c5b2212a03ebe914c6924c3da6e46225126387cb2200554004b67
   languageName: node
   linkType: hard
 
@@ -3770,7 +3773,7 @@ __metadata:
     "@mantine/hooks": ^6.0.10
     "@monaco-editor/react": ^4.6.0
     "@tanstack/react-query": ^5.13.4
-    "@testing-library/jest-dom": ^6.1.5
+    "@testing-library/jest-dom": ^6.4.1
     "@testing-library/react": ^14.1.2
     "@testing-library/user-event": ^14.5.1
     "@tinymce/tinymce-react": ^4.3.2
