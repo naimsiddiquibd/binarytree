@@ -1,0 +1,31 @@
+$input-height: calc(100dvh - 210px);
+$output-height: calc(100dvh - 300px);
+
+.sort {
+	overflow: hidden;
+
+	&__output {
+		display: grid;
+	}
+
+	&__input,
+	&__output {
+		height: var(--bt-full-page-height);
+	}
+
+	&__input {
+		&_label {
+			display: flex;
+			width: var(--bt-vw-100);
+			justify-content: space-between;
+		}
+	}
+
+	&__input_textarea {
+		height: $input-height;
+	}
+
+	&__output_textarea {
+		height: $output-height !important;
+	}
+}

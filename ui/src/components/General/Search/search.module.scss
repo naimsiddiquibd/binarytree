@@ -1,0 +1,9 @@
+.search {
+	display: flex;
+	flex-direction: column;
+	gap: var(--bt-size-16);
+
+	&__category {
+		cursor: pointer;
+	}
+}

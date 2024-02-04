@@ -1,0 +1,20 @@
+.md {
+	height: var(--bt-full-page-height);
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	gap: var(--bt-size-16);
+
+	&__editor {
+		flex: var(--bt-number-1);
+		overflow: auto;
+		position: relative;
+
+		&__spinner {
+			position: absolute;
+			top: var(--bt-size-percent-5);
+			left: var(--bt-size-percent-1);
+			z-index: var(--bt-z-index-dropdown);
+		}
+	}
+}

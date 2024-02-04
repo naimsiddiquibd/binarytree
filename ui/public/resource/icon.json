@@ -1,0 +1,206 @@
+[
+	{
+		"name": "Tabler Icons",
+		"category": "Frontend",
+		"subCategory": ["React", "Frontend"],
+		"url": "https://tabler-icons.io/",
+		"socials": [
+			{
+				"url": "https://github.com/tabler/tabler-icons",
+				"name": "github"
+			}
+		]
+	},
+	{
+		"name": "Lordicon",
+		"category": "Frontend",
+		"subCategory": ["React", "Frontend"],
+		"url": "https://lordicon.com/",
+		"socials": [
+			{
+				"url": "",
+				"name": "github"
+			}
+		]
+	},
+	{
+		"name": "Iconir",
+		"category": "Frontend",
+		"subCategory": ["React", "Frontend"],
+		"url": "https://iconoir.com/",
+		"socials": [
+			{
+				"url": "https://github.com/iconoir-icons/iconoir",
+				"name": "github"
+			}
+		]
+	},
+	{
+		"name": "Lucide Icons",
+		"category": "Icons",
+		"subCategory": ["React", "Frontend"],
+		"url": "https://lucide.dev/",
+		"socials": [
+			{
+				"url": "https://github.com/lucide-icons/lucide",
+				"name": "github"
+			}
+		]
+	},
+	{
+		"name": "Feather",
+		"category": "Icons",
+		"subCategory": ["React", "Frontend"],
+		"url": "https://feathericons.com/",
+		"socials": [
+			{
+				"url": "https://github.com/feathericons/feather",
+				"name": "github"
+			}
+		]
+	},
+	{
+		"name": "Simple icons",
+		"category": "Icons",
+		"subCategory": ["React", "Frontend"],
+		"url": "https://simpleicons.org/",
+		"socials": [
+			{
+				"url": "https://github.com/simple-icons/simple-icons",
+				"name": "github"
+			}
+		]
+	},
+	{
+		"name": "Octicons",
+		"category": "Icons",
+		"subCategory": ["React", "Frontend"],
+		"url": "https://github.com/primer/octicons",
+		"socials": [
+			{
+				"url": "https://primer.style/design/foundations/icons",
+				"name": "github"
+			}
+		]
+	},
+	{
+		"name": "Font Awesome",
+		"category": "Icons",
+		"subCategory": ["React", "Frontend"],
+		"url": "https://fontawesome.com/",
+		"socials": [
+			{
+				"url": "https://github.com/FortAwesome/Font-Awesome",
+				"name": "github"
+			}
+		]
+	},
+	{
+		"name": "Radix-ui icons",
+		"category": "Icons",
+		"subCategory": ["React", "Frontend"],
+		"url": "https://www.radix-ui.com/icons",
+		"socials": [
+			{
+				"url": "https://github.com/radix-ui/icons",
+				"name": "github"
+			}
+		]
+	},
+	{
+		"name": "Futicons",
+		"category": "Icons",
+		"subCategory": ["React", "Frontend"],
+		"url": "https://futicons.com/",
+		"socials": [
+			{
+				"url": "",
+				"name": ""
+			}
+		]
+	},
+	{
+		"name": "Iconbuddy",
+		"category": "Icons",
+		"subCategory": ["React", "Frontend"],
+		"url": "https://iconbuddy.app/",
+		"socials": [
+			{
+				"url": "",
+				"name": ""
+			}
+		]
+	},
+	{
+		"name": "Unicornicons",
+		"category": "Icons",
+		"subCategory": ["React", "Frontend"],
+		"url": "https://unicornicons.com/",
+		"socials": [
+			{
+				"url": "",
+				"name": ""
+			}
+		]
+	},
+	{
+		"name": "Iconer",
+		"category": "Icons",
+		"subCategory": ["React", "Frontend"],
+		"url": "https://iconer.app/",
+		"socials": [
+			{
+				"url": "",
+				"name": ""
+			}
+		]
+	},
+	{
+		"name": "iconsax",
+		"category": "Icons",
+		"subCategory": ["React", "Frontend"],
+		"url": "https://iconsax.io/",
+		"socials": [
+			{
+				"url": "",
+				"name": ""
+			}
+		]
+	},
+	{
+		"name": "Iconizer",
+		"category": "Icons",
+		"subCategory": ["React", "Frontend"],
+		"url": "https://www.iconizer.io/",
+		"socials": [
+			{
+				"url": "",
+				"name": ""
+			}
+		]
+	},
+	{
+		"name": "Iconly",
+		"category": "Icons",
+		"subCategory": ["React", "Frontend"],
+		"url": "https://iconly.pro/",
+		"socials": [
+			{
+				"url": "",
+				"name": ""
+			}
+		]
+	},
+	{
+		"name": "Flaticon",
+		"category": "Icons",
+		"subCategory": ["React", "Frontend"],
+		"url": "https://www.flaticon.com/",
+		"socials": [
+			{
+				"url": "",
+				"name": ""
+			}
+		]
+	}
+]

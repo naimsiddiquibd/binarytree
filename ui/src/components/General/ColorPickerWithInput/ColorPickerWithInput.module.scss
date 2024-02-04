@@ -1,0 +1,29 @@
+$cp-top: 27px;
+$cp-left: -12px;
+$cp-bg-color: rgb(68, 68, 68);
+$cp-z-index: 9999;
+
+.cpwi {
+	&__color {
+		position: relative;
+		display: inline-block;
+		display: flex;
+		align-items: center;
+		cursor: pointer;
+
+		&_dp {
+			background-color: $cp-bg-color;
+			padding: var(--bt-size-10);
+			border-radius: var(--bt-size-10);
+			top: $cp-top;
+			left: $cp-left;
+			z-index: $cp-z-index;
+			display: none;
+			position: absolute;
+		}
+
+		&:hover &_dp {
+			display: block;
+		}
+	}
+}

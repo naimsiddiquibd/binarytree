@@ -1,0 +1,102 @@
+[
+	{
+		"name": "Scrimba",
+		"category": "Online Learning Platform",
+		"subCategory": "HTML, CSS, React, JavaScript",
+		"url": "https://scrimba.com/",
+		"socials": []
+	},
+	{
+		"name": "Edx",
+		"category": "Online University Courses",
+		"subCategory": "CSE/CS courses",
+		"url": "https://www.edx.org/"
+	},
+	{
+		"name": "Academyxi",
+		"category": "Professional Development",
+		"subCategory": "IT courses",
+		"url": "https://academyxi.com/"
+	},
+	{
+		"name": "Generalassembly",
+		"category": "Professional Development",
+		"subCategory": "IT courses",
+		"url": "https://generalassemb.ly/"
+	},
+	{
+		"name": "Udemy",
+		"category": "Online Learning Platform",
+		"subCategory": "IT courses",
+		"url": "https://www.udemy.com/"
+	},
+	{
+		"name": "LinkedIn Learning",
+		"category": "Professional Development",
+		"subCategory": "IT courses",
+		"url": "https://www.linkedin.com/learning/"
+	},
+	{
+		"name": "Coursera",
+		"category": "Online University Courses",
+		"subCategory": "IT courses",
+		"url": "https://www.coursera.org/"
+	},
+	{
+		"name": "Udacity",
+		"category": "Online University Courses",
+		"subCategory": "IT courses",
+		"url": "https://www.udacity.com/"
+	},
+	{
+		"name": "Codecademy",
+		"category": "Online Learning Platform",
+		"subCategory": "IT courses",
+		"url": "https://www.codecademy.com/"
+	},
+	{
+		"name": "Thinkful",
+		"category": "Online Learning Platform",
+		"subCategory": "IT courses",
+		"url": "https://www.thinkful.com/"
+	},
+	{
+		"name": "Pluralsight",
+		"category": "Online Learning Platform",
+		"subCategory": "IT courses",
+		"url": "https://www.pluralsight.com/"
+	},
+	{
+		"name": "FreeCodeCamp",
+		"category": "Online Learning Platform",
+		"subCategory": "IT courses",
+		"url": "https://www.freecodecamp.org/"
+	},
+	{
+		"name": "Epic React",
+		"category": "React",
+		"subCategory": "React",
+		"url": "https://epicreact.dev/",
+		"socials": []
+	},
+	{
+		"name": "The Joy of React",
+		"category": "React",
+		"subCategory": "React",
+		"url": "https://www.joyofreact.com/",
+		"socials": []
+	},
+	{
+		"name": "REACT.gg",
+		"category": "React",
+		"subCategory": "React",
+		"url": "https://react.gg/",
+		"socials": []
+	},
+	{
+		"name": "useEffect",
+		"category": "React",
+		"subCategory": "React",
+		"url": "https://useeffect.dev/"
+	}
+]

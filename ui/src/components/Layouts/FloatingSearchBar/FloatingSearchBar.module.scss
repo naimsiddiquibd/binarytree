@@ -1,0 +1,17 @@
+.fsb {
+	&__input {
+		display: flex;
+		align-items: center;
+		position: sticky;
+		border-radius: var(--bt-size-10);
+		padding: var(--bt-size-4);
+	}
+}
+
+@media screen and (max-width: 900px) {
+	.fsb {
+		&__input {
+			display: none;
+		}
+	}
+}

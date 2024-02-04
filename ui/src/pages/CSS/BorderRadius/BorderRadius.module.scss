@@ -1,0 +1,32 @@
+$br-dvh-25: 25dvh;
+
+.br {
+	display: flex;
+	flex-direction: column;
+	gap: var(--bt-size-20);
+	&__input,
+	&__output {
+		height: var(--bt-size-percent-100);
+	}
+
+	&__output {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+		&_container {
+			display: flex;
+			flex-direction: row;
+			gap: var(--bt-size-20);
+
+			&_text {
+				aspect-ratio: var(--bt-number-1) / var(--bt-number-1);
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				height: $br-dvh-25;
+				overflow: hidden;
+			}
+		}
+	}
+}

@@ -1,0 +1,28 @@
+.resource {
+	display: grid;
+
+	&_space {
+		display: grid;
+		grid-template-columns: var(--bt-grid-template-1) var(
+				--bt-grid-template-1
+			) var(--bt-grid-template-1) auto;
+	}
+
+	&__avatar {
+		display: flex;
+		align-items: center;
+		font-size: var(--font-size-fluid-1);
+		height: var(--bt-size-50);
+		width: var(--bt-size-50);
+	}
+
+	&__container {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	@media screen and (max-width: 550px) {
+		width: var(--bt-size-percent-100);
+	}
+}

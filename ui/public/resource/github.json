@@ -1,0 +1,134 @@
+[
+	{
+		"name": "freeCodeCamp",
+		"category": "Education",
+		"subCategory": ["TypeScript", "Web Development"],
+		"url": "https://github.com/freeCodeCamp/freeCodeCamp",
+		"socials": [
+			{
+				"url": "",
+				"name": "GitHub"
+			}
+		]
+	},
+	{
+		"name": "free-programming-books",
+		"category": "Education",
+		"subCategory": ["None", "Programming Books"],
+		"url": "https://github.com/EbookFoundation/free-programming-books",
+		"socials": [
+			{
+				"url": "",
+				"name": "GitHub"
+			}
+		]
+	},
+	{
+		"name": "996.ICU",
+		"category": "Protest",
+		"subCategory": ["None", "Working Conditions"],
+		"url": "https://github.com/996icu/996.ICU",
+		"socials": [
+			{
+				"url": "",
+				"name": "GitHub"
+			}
+		]
+	},
+	{
+		"name": "awesome",
+		"category": "Curated Lists",
+		"subCategory": ["None", "Curated List"],
+		"url": "https://github.com/sindresorhus/awesome",
+		"socials": [
+			{
+				"url": "",
+				"name": "GitHub"
+			}
+		]
+	},
+	{
+		"name": "coding-interview-university",
+		"category": "Education",
+		"subCategory": ["None", "Interview Preparation"],
+		"url": "https://github.com/jwasham/coding-interview-university",
+		"socials": [
+			{
+				"url": "",
+				"name": "GitHub"
+			}
+		]
+	},
+	{
+		"name": "public-apis",
+		"category": "APIs",
+		"subCategory": ["Python", "APIs"],
+		"url": "https://github.com/public-apis/public-apis",
+		"socials": [
+			{
+				"url": "",
+				"name": "GitHub"
+			}
+		]
+	},
+	{
+		"name": "developer-roadmap",
+		"category": "Guides",
+		"subCategory": ["TypeScript", "Web Development"],
+		"url": "https://github.com/kamranahmedse/developer-roadmap",
+		"socials": [
+			{
+				"url": "",
+				"name": "GitHub"
+			}
+		]
+	},
+	{
+		"name": "system-design-primer",
+		"category": "System Design",
+		"subCategory": ["Python", "System Design"],
+		"url": "https://github.com/donnemartin/system-design-primer",
+		"socials": [
+			{
+				"url": "",
+				"name": "GitHub"
+			}
+		]
+	},
+	{
+		"name": "react",
+		"category": "Library",
+		"subCategory": ["JavaScript", "Web Development"],
+		"url": "https://github.com/facebook/react",
+		"socials": [
+			{
+				"url": "",
+				"name": "GitHub"
+			}
+		]
+	},
+	{
+		"name": "build-your-own-x",
+		"category": "Education",
+		"subCategory": ["Programming"],
+		"url": "https://github.com/danistefanovic/build-your-own-x",
+		"socials": [
+			{
+				"url": "",
+				"name": "GitHub"
+			}
+		]
+	},
+	{
+		"name": "design-patterns-for-humans",
+		"category": "System Design",
+		"subCategory": ["Programming"],
+		"url": "https://github.com/kamranahmedse/design-patterns-for-humans",
+		"socials": [
+			{
+				"url": "",
+				"name": "GitHub"
+			}
+		]
+	}
+]

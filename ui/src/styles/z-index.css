@@ -1,0 +1,4 @@
+:where(html) {
+	--bt-z-index-header: 1;
+	--bt-z-index-dropdown: 10;
+}
